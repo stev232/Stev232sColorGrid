@@ -2,8 +2,12 @@
 
 ## Description
 
-This program will generate squares across a webpage. These squares will appear as a different color when hovered over.
+This program will generate rectangles across a webpage. These rectangles will appear as a different color when hovered over. If the rectangle is click on then the color is cleared from the rectangle.
+
+## ScreenShot
+
+![PATH](./assets/screenshots/ColorGrid.PNG)
 
 ## Deployment Link
 
-Link:
+Link: https://stev232.github.io/Stev232sColorGrid/
